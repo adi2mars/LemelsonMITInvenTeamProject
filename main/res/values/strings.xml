@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sepsis Risk Assesment</string>
+    <string name="tab_label1">Home</string>
+    <string name="tab_label2">Take Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    >
+    <string name="SepsisDescrip">Sepsis is a life threatening disease that stems from a body\'s reaction to an infection. </string>
+    <string name="SepsisSymptoms">Symptoms:\n
+    -fever above 101 degrees farenheit\n
+    -heart rate higher than 90 bpm\n
+    -breathing rate higher than 20 breaths per minute\n
+    -patches of discolored skin\n
+    -chills due to fall in body temperature</string>
+    <string name="SepsisCauses">Causes\n
+    -Recently gone through a major illness\n
+    -Compormised immune system</string>
+    <string name="TestDescription">Using your inputs of your visible symptoms, history of infection, and measurements made through our sensors, we perform a risk assessment analysis on whether you need to take full diagnostic test of sepsis </string>
+    <string name="historyCheck">Do you have a major illness or have recently suffered through one?</string>
+</resources>
